@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+Title: My blog Page!
+Programmer: Moises Sanchez
 ---
